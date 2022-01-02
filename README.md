@@ -1,1 +1,1 @@
-# python-hpc-introduction
+# Python introduction to numba
